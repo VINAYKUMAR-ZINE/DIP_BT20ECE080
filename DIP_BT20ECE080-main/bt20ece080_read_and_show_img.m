@@ -1,5 +1,5 @@
 % Digital Image Processing Matlab codes by 
-% Rushikesh Marade ( BT20ECE097 )
+% Vinaykumar Zine ( BT20ECE080 )
 
 % Read and show original image
 originalImage = imread('test.jpg'); % image file path
